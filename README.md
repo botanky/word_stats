@@ -8,6 +8,6 @@ file5 contains the characters in the text and their occurances.
 file6 shows number of character in each line.
 file7 shows number of charachers in each word.
 
-the text you want to analyze shoul be written on line 13.
+the text you want to analyze should be written on line 13.
 
 
