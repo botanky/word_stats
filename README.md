@@ -10,4 +10,4 @@ file7 shows number of charachers in each word.
 
 the text you want to analyze should be written on line 13.
 
-
+(this is the first commit which is made from git by me.)
