@@ -1,5 +1,5 @@
 # word_stats
-This python code analyse text documents statistically. The gives 5 output file.
+This python code analyse text documents statistically. The gives 7 output file.
 file1 contains the unique words sorted alphabetically.
 file2 contains the unique words sorted by length.
 file3 contains the unique words sorted by occurance.
